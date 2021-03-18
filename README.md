@@ -1,5 +1,5 @@
 #Tugas-Kuliah
-ini adalah Tugas Kuliah saya di Universitas Pamulang
+Disini tempat saya menaruh Tugas Kuliah dan Code yg saya ingin taruh
 Its Free to Download
 
 NOTE : Code ini perlu di debug terlebih dahulu
