@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class TugasPemrogramanPertemuan4{
+public class TugasPemogramanPertemuan4{
  public static void main(String [] args){
  String nama="";
  nama = JOptionPane.showInputDialog("Ketik nama anda : ");
