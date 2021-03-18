@@ -13,13 +13,13 @@ Grade nilai kamu !";
  if (hasil>=80) {
  JOptionPane.showMessageDialog(null,"Anda mendapatkan Grade A");
  }
- else if(hasil<=80){
+ else if(hasil<=80&& hasil>70){
  JOptionPane.showMessageDialog(null,"Anda mendapatkan Grade B");
  }
- else if(hasil<=70){
+ else if(hasil<=70&& hasil>60){
  JOptionPane.showMessageDialog(null,"Anda mendapatkan Grade C");
  }
- else if(hasil<=60){
+ else if(hasil<=60&& hasil>50){
  JOptionPane.showMessageDialog(null,"Anda mendapatkan Grade D");
  }
  else if(hasil<=50){
